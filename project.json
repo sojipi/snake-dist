@@ -1,0 +1,26 @@
+{
+  "version": "3.8.3",
+  "name": "Snake-Mahjong",
+  "uuid": "game-uuid-001",
+  "creator": "3.8.3",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "resolution": {
+    "width": 1024,
+    "height": 576
+  },
+  "physics": {
+    "enabled": true,
+    "gravity": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "scripting": {
+    "typescript": true
+  }
+} 
